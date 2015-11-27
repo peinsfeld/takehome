@@ -1,0 +1,4 @@
+/Users/a00971161/Desktop/git/takehome/css/index.html
+/Users/a00971161/Desktop/git/takehome/img/index.html
+/Users/a00971161/Desktop/git/takehome/index1.html
+/Users/a00971161/Desktop/git/takehome/js/index.html
